@@ -49,7 +49,6 @@ Industry Lab 07: Exception Handling
 }
     
     
-    
     ```
 
 3. Rewrite the following code, adding an appropriate try-catch block to it:
